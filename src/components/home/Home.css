@@ -1,0 +1,8 @@
+.home {
+    display: 100%;
+}
+@media Only screen and (max-width:1440px)  {
+    div.home {
+        display: flex;
+    }
+}
